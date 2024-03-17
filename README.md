@@ -1,2 +1,2 @@
 # ecoeats
-This is a work the i made for my college
+This is a work that i made for my college
