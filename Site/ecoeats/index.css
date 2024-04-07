@@ -1,0 +1,524 @@
+body{
+    width: 100%; 
+    margin: 0 auto; 
+    position: relative;
+    margin:auto;    
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    overflow-x: hidden !important;
+    margin-left: auto;
+    }
+      body, html {
+      overflow-x: hidden!important;
+      overflow-y: scroll;
+      overflow-x: hidden;
+      }
+
+.Site{
+    width: 1920px; height: 2638px; position: relative; background: white;
+}
+
+.EcoeatsMarca2{
+    width: 319px; height: 186px; left: 11px; top: -25px; position: relative;
+}
+
+.search{
+    width: 741px; height: 79px; left: 596px; top: 34px; position: absolute; background: white; border-radius: 15px;
+    font-size: 30px;
+    font-family: "Robot";
+}
+
+
+.achou{
+    left: 613px; top: 54px; position: absolute; color: #DBDBDB; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.melancia{
+    width: 408px; height: 654px; left: 93px; top: 246px; position: absolute; border-radius: 15px;
+}
+
+.melancia:hover {
+    transition: 0.4s;
+    transform: scale(0.9);
+}
+
+.melancia {
+    transition: 0.4s;
+}
+
+.gluten:hover {
+    transition: 0.4s;
+    transform: scale(0.9);
+}
+
+.gluten {
+    transition: 0.4s;
+}
+
+.pascoa:hover {
+    transition: 0.4s;
+    transform: scale(0.9);
+}
+
+.pascoa {
+    transition: 0.4s;
+}
+
+.integral:hover {
+    transition: 0.4s;
+    transform: scale(0.9);
+}
+
+.integral {
+    transition: 0.4s;
+}
+
+.local-box:hover{
+
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+
+.local-box{
+    transition: 0.3s;
+}
+
+.novidades:hover{
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+
+.novidades{
+    transition: 0.3s;
+}
+
+.Alimentação:hover{
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+.Alimentação{
+    transition: 0.3s;
+    
+}
+.Assine1:hover{
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+.Assine1{
+    transition: 0.3s;
+}
+
+.frutas:hover{
+    transition: 0.4s;
+    transform: scale(0.9);
+
+}
+.frutas{
+    transition: 0.3s;
+}
+
+.gluten{
+    width: 408px; height: 654px; left: 522px; top: 246px; position: absolute; border-radius: 15px;
+}
+
+.pascoa{
+    width: 408px; height: 654px; left: 950px; top: 246px; position: absolute; border-radius: 15px;
+}
+
+.verde{
+    width: 1920px; height: 156px; left: 0px; top: -10px; position: absolute; background: #09372D;
+}
+
+.integral{
+    width: 408px; height: 654px; left: 1376px; top: 246px; position: absolute; border-radius: 15px;
+}
+
+.pordutos{
+    left: 330px; top: 54px; position: absolute; color: #F1E5E0; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.local-box{
+    width: 408px; height: 156px; left: 93px; top: 947px; position: absolute; background: #09372D; border-radius: 43px;
+}
+
+.novidades{
+    width: 408px; height: 156px; left: 522px; top: 947px; position: absolute; background: #09372D; border-radius: 43px;
+}
+
+.Alimentação{
+    width: 408px; height: 156px; left: 970px; top: 947px; position: absolute; background: #09372D; border-radius: 43px;
+}
+.alface{
+    width: 252px; height: 260px; left: 249px; top: 2644px; position: absolute; border-radius: 16px;
+}
+.AlimentaOInfantil:hover{
+    transition: 0.4s;
+    transform: scale(1.1);
+
+}
+.AlimentaOInfantil{
+    transition: 0.3s;
+}
+
+.banana{
+    width: 252px; height: 260px; left: 1029px; top: 2644px; position: absolute; border-radius: 16px;
+}
+.legumes{
+    width: 252px; height: 260px; left: 249px; top: 4164px; position: absolute; border-radius: 16px;
+}
+.castanha{
+    width: 252px; height: 260px; left: 249px; top: 3460px; position: absolute; border-radius: 16px;
+}
+
+.nozes{
+    width: 252px; height: 260px; left: 639px; top: 3460px; position: absolute; border-radius: 16px;
+}
+
+.butão-1{
+    width: 321px; height: 104px; left: 214px; top: 3833px; position: absolute; border-radius: 14px; border: 4px #09372D solid;
+}
+
+.butão-1:hover{
+    background-color: #09372D;
+    color: #09372D ;
+    transition: 0.4s;
+}
+
+.butão-1{
+    transition: 0.4s;
+}
+
+.Adicionar:hover{
+    
+    color: white;
+    transition: 0.4s;
+}
+
+.Adicionar{
+    transition: 0.4s;
+}
+
+.tofu{
+    width: 252px; height: 260px; left: 1029px; top: 3460px; position: absolute; border-radius: 16px;
+}
+
+.hamburguer{
+    width: 252px; height: 260px; left: 1419px; top: 3460px; position: absolute; border-radius: 16px;
+}
+
+.tomate{
+    width: 252px; height: 260px; left: 639px; top: 2644px; position: absolute; border-radius: 16px;
+}
+.frutas-1{
+    width: 252px; height: 260px; left: 639px; top: 4164px; position: absolute; border-radius: 16px;
+}
+.pão{
+    width: 252px; height: 260px; left: 1029px; top: 4164px; position: absolute; border-radius: 16px;
+}
+
+.Barbara{
+    left: 1500px; top: 5203px; position: absolute; text-align: center; color: #09372D; font-size: 20px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+.estrela-1{
+    width: 299px; height: 96px; left: 254px; top: 4728px; position: absolute;
+}
+
+.estrela-2{
+    width: 299px; height: 96px; left: 810px; top: 4728px; position: absolute;
+}
+.estrela-3{
+    width: 299px; height: 96px; left: 1370px; top: 4728px; position: absolute;
+}
+
+/* Redes sociais */
+.youtube{
+    width: 84px; height: 84px; left: 967px; top: 7227px; position: absolute;
+}
+
+.linkedin{
+    width: 53px; height: 53px; left: 858px; top: 7242px; position: absolute;
+}
+
+.instagram{
+    width: 52px; height: 52px; left: 915px; top: 7240px; position: absolute;
+}
+
+
+/* Links */
+.organico{
+    width: 120px; height: 58px; left: 795px; top: 7437px; position: absolute;
+}
+
+.copy{
+    width: 15px; height: 15px; left: 333px; top: 7502px; position: absolute;
+}
+
+.ibd{
+    width: 64px; height: 86px; left: 928px; top: 7423px; position: absolute;
+}
+/* Names */
+
+.bruce{
+    left: 366px; top: 5203px; position: absolute; text-align: center; color: #09372D; font-size: 20px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.jason{
+    left: 926px; top: 5203px; position: absolute; text-align: center; color: #09372D; font-size: 20px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.molhos{
+    width: 252px; height: 260px; left: 1419px; top: 4164px; position: absolute; border-radius: 16px;
+}
+.mamão{
+    width: 252px; height: 260px; left: 1419px; top: 2644px; position: absolute; border-radius: 16px;
+}
+/* .comprar:hover{
+    transition: 0.4s;
+    transform: scale(0.5);
+
+}
+.comprar{
+    transition: 0.3s;
+} */
+
+.produtos{
+    left: 330px; top: 54px; position: absolute; color: #F1E5E0; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+.entregamos{
+    left: 187px; top: 990px; position: absolute; color: white; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.cep{
+    left: 190px; top: 1033px; position: absolute; color: white; font-size: 20px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.local{
+    width: 64px; height: 64px; left: 111px; top: 996px; position: absolute;
+}
+
+.verifique{
+    left: 579px; top: 1006px; position: absolute; color: white; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.Assine{
+    left: 1534px; top: 1006px; position: absolute; color: white; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word
+}
+
+.nossa{
+    left: 767px; top: 1279px; position: absolute; color: #09372D; font-size: 64px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+
+.frutas{
+    width: 1695px; height: 447px; left: 112px; top: 1397px; position: absolute; border-radius: 43px;
+}
+
+.pimentao{
+    width: 485px; height: 447px; left: 112px; top: 1973px; position: absolute; border-radius: 43px;
+}
+
+.cenoura{
+    width: 485px; height: 447px; left: 717px; top: 1973px; position: absolute; border-radius: 43px;
+}
+
+.abacate{
+    width: 485px; height: 447px; left: 1322px; top: 1973px; position: absolute; border-radius: 43px;
+}
+
+.nav-list{
+    color: white;
+    display: block;
+}
+
+.MinhaConta{
+    left: 1518px; top: 49px; position: absolute; color: #F1E5E0; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.Carrinho{
+    left: 1716px; top: 49px; position: absolute; color: #F1E5E0; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+}
+
+.AlimentaOInfantil{
+    width: 408px; height: 156px; left: 951px; top: 947px; position: absolute; background: #09372D; border-radius: 43px;
+}
+
+.Assine1{
+    width: 403px; height: 156px; left: 1385px; top: 947px; position: absolute; background: #09372D; border-radius: 43px;
+}
+
+.Ajuda{
+    left: 1404px; top: 49px; position: absolute; color: #F1E5E0; font-size: 32px; font-family: Roboto; font-weight: 900; word-wrap: break-word
+}
+
+@media screen and (max-width: 768px){
+
+    body{
+        width: 390px; height: 844px; position: relative; background: white
+    }
+
+    .nav-list {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: #09372D;
+        clip-path: circle(100px at 90% -15%);
+        transition: 1s ease-out;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        gap: 0;
+        pointer-events: none;
+      }
+    
+      .nav-list a {
+        font-size: 24px;
+        opacity: 0;
+      }
+    
+      .nav-list li:nth-child(1) a {
+        transition: 0.5s 0.2s;
+      }
+    
+      .nav-list li:nth-child(2) a {
+        transition: 0.5s 0.4s;
+      }
+    
+      .nav-list li:nth-child(3) a {
+        transition: 0.5s 0.6s;
+      }
+        
+      .nav.active .nav-list {
+        clip-path: circle(1500px at 90% -15%);
+        pointer-events: all;
+      }
+    
+      .nav.active .nav-list a {
+        opacity: 1;
+      }
+    
+      .nav.active .hamburger {
+        position: fixed;
+        top: 26px;
+        right: 16px;
+        border-top-color: transparent;
+      }
+    
+      .nav.active .hamburger::before {
+        transform: rotate(135deg);
+      }
+    
+      .nav.active .hamburger::after {
+        transform: rotate(-135deg);
+        top: -7px;
+      }
+
+    .Component2{
+        bottom: none;
+        width: 38px; height: 20px; border-radius: 15px; left: 290px; top: -65px; position: relative;
+    }
+
+    .nav-list .ajuda{
+        color: #F1E5E0; font-size: 40px; font-family: Roboto; font-weight: 900; word-wrap: break-word; position: relative; top: 80px; left: 90px;
+        color: #F1E5E0;
+    }
+
+    .nav-list .conta{
+        color: #F1E5E0; font-size: 40px; font-family: Roboto; font-weight: 900; word-wrap: break-word; position: relative; top: 159px; left: -70px;
+        color: #F1E5E0;
+    }
+
+    .nav-list .carrinho{
+        color: #F1E5E0; font-size: 40px; font-family: Roboto; font-weight: 900; word-wrap: break-word; position: relative;  top: 200px; left: 65px; 
+        color: #F1E5E0;
+    }
+
+
+    .EcoeatsMarca2{
+        width: 160px; height: 93px; left: -28px; top: 0px; position: relative;
+    }
+
+    .melancia{
+        width: 89px; height: 143px; border-radius: 11px; left: 30px; top: 100px;
+    }
+
+    .gluten{
+        width: 89px; height: 143px; border-radius: 11px; left: 130px; top: 100px;
+    }
+    
+    .pascoa{
+        width: 89px; height: 143px; border-radius: 11px; left: 230px; top: 100px; 
+    }
+
+    .verde{
+        width: 390px; height: 94px; left: 0px; top: -10px; position: absolute; background: #09372D;
+    }
+
+    .search{
+        width: 150px; height: 30px; background: white; border-radius: 15px; left: 100px; top: 27px;
+        font-size: 12px;
+        font-family: "Roboto";
+        font-display: 5px;
+    }
+
+    .local-box{
+        width: 92px; height: 35px; background: #09372D; border-radius: 43px; left: 30px; top: 260px;
+    }
+
+    .novidades{
+         width: 92px; height: 35px; background: #09372D; border-radius: 43px; left: 230px; top: 260px;
+    }
+
+    .Alimentação{
+        width: 92px; height: 35px; background: #09372D; border-radius: 43px; left: 130px; top: 260px; 
+    }
+
+    .entregamos{
+        color: white; font-size: 5px; font-family: Roboto; font-weight: 900; word-wrap: break-word; left: 60px; top: 270px;
+    }
+
+    .cep{
+        color: white; font-size: 5px; font-family: Roboto; font-weight: 900; word-wrap: break-word; left: 60px; top: 279px;
+    }
+
+    .local{
+        width: 30px; height: 30px; position: absolute; left: 30px; top: 261px;
+    }
+    
+    .verifique{
+        left: 236px; top: 273px; position: absolute; color: white; font-size: 8px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+    }
+
+    .Produtos{
+        display: none;
+    }
+
+    .Assine{
+        left: 146px; top: 266px;  position: absolute; color: white; font-size: 20px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+    }
+
+    .nossa{
+        left: 120px; top: 350px; position: absolute; color: #09372D; font-size: 20px; font-family: Roboto; font-weight: 900; word-wrap: break-word;
+    }
+
+    .frutas{
+        width: 353px; height: 94px; border-radius: 11px; left: 3px; top: 400px;
+    }
+
+    .pimentao{
+        width: 101px; height: 94px; border-radius: 11px; left: 3px; top: 520px;
+        
+    }
+
+    .cenoura{
+        width: 101px; height: 94px; border-radius: 11px; left: 126px; top: 520px;
+    }
+    
+    .abacate{
+        
+        width: 101px; height: 94px; border-radius: 11px; left: 250px; top: 520px;
+    }
+
+}
