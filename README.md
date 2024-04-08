@@ -34,8 +34,8 @@ In the moment the app isn't ready, but i have here the design
 
 If i dont say before, i will say now. This stil on develope. **Is not ready**
 
-# If is not ready, why ou put here?
-Because have a valid for i put the project, if is not the part of programming. Was ready, just for the design.
+# If it's not ready, why do I put it here?
+Because it has an expiration date for me to put the project in, if it's not the programming part. It was ready, just by design.
 
 # Code
 
