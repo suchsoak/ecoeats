@@ -20,7 +20,7 @@ The website is here
 
 | Site |  Links |
 | ------ | ------ |
-|  Ecoeats |  https://github.com/suchsoak/ecoeats/blob/main/Site/ecoeats/Site.png
+|  Ecoeats |  https://github.com/suchsoak/ecoeats/blob/main/WebSite.png
 
 In the moment the site isn't responsive and just have the firt page.
 
