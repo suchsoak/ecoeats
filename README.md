@@ -4,7 +4,7 @@
 
 
 >[!NOTE]
-> Project in beta phase
+> This project is close
 
 # What is ecoeats
 
@@ -57,6 +57,6 @@ In this section, I will present the project to the client in a way that resemble
 
 # Now talking about the repository
 
-I can't say when the project will be ready, but one day it will be. Because of that I'm going to put it in beta.
+Due to time constraints, the project is closed. It will be left for those who want to study or understand more. Thank you very much.
 
 `GNU General Public License v3.0`
