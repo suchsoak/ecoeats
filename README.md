@@ -4,7 +4,7 @@
 
 
 >[!NOTE]
-> This project is close
+> This project is closed
 
 # What is ecoeats
 
